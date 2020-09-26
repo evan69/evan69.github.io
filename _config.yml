@@ -1,15 +1,21 @@
 # Site settings
-title: Wuwt-blog
-SEOTitle: 小涛的博客|Wuwt-blog
-header-img: img/bg/bg_index.jpg
-email: zywtwu@163.com
-description: ""
-keyword: ""
-url: "https://alivewwt.github.io/"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+title: Blog of Evan Hou
+SEOTitle: Evan Hou的博客 | Evan Hou's Blog
+header-img: img/post-bg-desk.jpg
+email: evan9669@126.com
+description: "Every failure is leading towards success."
+keyword: "Evan Hou, Evan Hou Blog, Evan Hou的博客, Programming, Algorithm"
+url: "http://evan69.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
-github_username: Alivewwt
+RSS: false
+weibo_username:     5338882832
+zhihu_username:     evan-hou-96
+github_username:    evan69
+# facebook_username:  baiying.qiu.7
+# jianshu_username:   e71990ada2fd
+#twitter_username:   qiubaiying
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -44,8 +50,8 @@ ba_track_id: 07529a93af5fa9f808261a1318c3aba4
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "不念过往，不惧未来"
-sidebar-avatar: /img/avatar-wwt.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: /img/avatar_ph.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
